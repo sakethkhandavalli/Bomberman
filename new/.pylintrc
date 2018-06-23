@@ -1,0 +1,5 @@
+[DESIGN]
+
+max-branches = 100
+max-statements = 100
+max-locals = 100
